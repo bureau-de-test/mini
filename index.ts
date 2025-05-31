@@ -1,3 +1,4 @@
 #!/usr/bin/env bun
 
-console.log("Hello via Bun!");
+console.log("Hello!");
+console.log(process.argv);
